@@ -1,0 +1,15 @@
+switch to branch
+1. you are already in master
+2. git branch <branhname>
+3. git checkout <branchname>
+or use shorthand...
+4. git checkout -b <branchname>
+* assuming you already created the branch on the remote repo
+
+
+Typical workflow
+----------------
+git init
+git add
+git commit -a -m "message"
+git push <url>
